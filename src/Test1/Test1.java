@@ -4,5 +4,6 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		System.out.println("good night Ram");
+		System.out.println("hello");
 	}
 }
